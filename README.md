@@ -1,6 +1,6 @@
 # Price-Point
 
-This application allows a user to provide a set of specifications he/shedesires in a mobile phone , based on the provided specification the application gives an estimated price. This functionality is acheived using amachine learning model which was trained using a dataset which was created from publicly available data obtained from various sources in the internet.
+This application allows a user to provide a set of specifications he/she desires in a mobile phone , based on the provided specification the application gives an estimated price. This functionality is acheived using amachine learning model which was trained using a dataset which was created from publicly available data obtained from various sources in the internet.
 
 In the process of developing this application , the full spectrum of tasks such as Data collection , Data preprocessing , Feature engineering , Model Selection , Model evaluation and Model finetuning involved in the creation of a predictive model have been covered.
 
